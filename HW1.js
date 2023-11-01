@@ -1,5 +1,5 @@
 //1) Create a variable with the name of our planet. 
-var Suturn; 
+var Saturn; 
 
 //2) Create a variable to store the name of the current site visitor.
 var name = "Tanya";
