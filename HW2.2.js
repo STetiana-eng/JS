@@ -184,7 +184,6 @@ let age = 15;
      case (age == 16)  || (age ==17): console.log ('U can take part time job'); break;
  }
 
-
 /* Task - 11
 Create a program  - https://take.ms/mN65i 
 
