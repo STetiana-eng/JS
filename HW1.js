@@ -14,7 +14,6 @@ console.log (myName);
 //5) Create "const" variable named myBool and set its value equal to false
 const myBool = false;
 
-
 //6) Display the sum of 15 + 30, using two variables: x and y.
 var x = 15;
 var y = 30;
