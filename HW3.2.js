@@ -74,7 +74,7 @@ function pow(x){
     Use function expression with arrow function notation
 */
 
-const lunchSelector = (pet) => {
+const chosepizza = (pet) => {
     return () => {
         let food;
 
@@ -93,5 +93,5 @@ const lunchSelector = (pet) => {
     };
 };
 
-const getLunchText = lunchSelector(1); 
-console.log(getLunchText());
+const gettext = chosepizza(1); 
+console.log(gettext());
